@@ -22,7 +22,8 @@ Nutri-Care is a web-based health and nutrition platform designed to help users m
 
 🌐 Live Demo
 
-"Visit Nutri-Care" (PASTE_YOUR_NETLIFY_LINK_HERE)
+"Visit Nutri-Care"
+(https://leafy-faun-7075ba.netlify.app/)
 
 🎯 Project Objective
 
